@@ -9,7 +9,7 @@ Sau khi tải xong, copy đường dẫn thư mục bên dưới, mở Finder, n
 
 - ~/macOS-Installer/
 
-Lưu ý: Bắt đầu từ macOS Monterey 12.3, Apple đã loại bỏ hỗ trợ cho python 2.7 nên các bạn sẽ phải thêm bước này
+*Lưu ý: Bắt đầu từ macOS Monterey 12.3, Apple đã loại bỏ hỗ trợ cho python 2.7 nên các bạn sẽ phải thêm bước này
 Mở Terminal gõ lần lượt 3 lệnh này:
 
 - xcode-select --install
